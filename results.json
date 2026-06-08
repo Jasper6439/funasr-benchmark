@@ -1,0 +1,26 @@
+[
+  {
+    "model_name": "sensevoice",
+    "audio_file": "/home/ubuntu/.cache/modelscope/hub/models/iic/SenseVoiceSmall/example/zh.mp3",
+    "raw_text": "<|zh|><|NEUTRAL|><|Speech|><|woitn|>开饭时间早上九点至下午五点",
+    "clean_text": "开饭时间早上九点至下午五点",
+    "inference_time": 0.697807788848877,
+    "rtf": 0.12412919553489907,
+    "wer": null,
+    "cer": null,
+    "language": "zh",
+    "emotion": "NEUTRAL"
+  },
+  {
+    "model_name": "nano",
+    "audio_file": "/home/ubuntu/.cache/modelscope/hub/models/iic/SenseVoiceSmall/example/zh.mp3",
+    "raw_text": "开饭时间早上九点至下午五点。",
+    "clean_text": "开饭时间早上九点至下午五点",
+    "inference_time": 2.357276201248169,
+    "rtf": 0.4193229184173916,
+    "wer": null,
+    "cer": null,
+    "language": null,
+    "emotion": null
+  }
+]
