@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+samples/
+*.wav
+*.mp3
+*.ogg
+results.json
